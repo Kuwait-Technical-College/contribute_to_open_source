@@ -1,0 +1,26 @@
+{
+  "name": "contribute-to-open-source",
+  "version": "1.0.0",
+  "description": "Tutorial and slides for teaching students at Kuwait Technical College how to contribute to open source",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "keywords": [
+    "tutorial",
+    "open-source",
+    "git",
+    "github",
+    "slides",
+    "ktech"
+  ],
+  "author": "Kuwait Technical College",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@slidev/cli": "^52.14.2",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
