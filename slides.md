@@ -917,7 +917,7 @@ class: text-center
 ---
 
 <div class="flex flex-col items-center">
-  <img src="/assets/ktech_logo_dark.svg" class="w-32 mb-4" alt="ktech logo" />
+  <img src="/assets/ktech_logo_light.svg" class="w-32 mb-4" alt="ktech logo" />
 
   <h1 class="!text-4xl">Thank You</h1>
 
