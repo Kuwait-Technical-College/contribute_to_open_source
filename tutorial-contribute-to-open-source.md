@@ -581,10 +581,6 @@ Your Pull Request is now visible on the [project's Pull Requests page](https://g
   - Authentication failures during `git push` → help them sign in via the browser, or set up a Personal Access Token
 - **Live-review 1–2 Pull Requests** on the projector near the end to demonstrate what the review process looks like
 
-### Field Name Note
-
-The repository's `CONTRIBUTING.md` file says the koan field is called `"koan"`, but the actual `koans.json` file uses `"koanText"`. **Students must use `koanText`** — using `"koan"` would break the app. If a student (or Copilot) uses the wrong field name, correct it.
-
 ### Timing Guide
 
 | Phase | Content | Duration |
