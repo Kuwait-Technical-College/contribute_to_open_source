@@ -76,6 +76,7 @@ transition: fade-out
 | **OS** | Windows (with macOS notes) |
 | **End Goal** | Add a cybersecurity zen koan & submit a Pull Request |
 | **Repository** | [cybersecurity_zen_koans_app](https://github.com/Kuwait-Technical-College/cybersecurity_zen_koans_app) |
+| 🎥 **Video** | [Full tutorial on YouTube](https://www.youtube.com/watch?v=a8poI7DmBYs) |
 
 ---
 

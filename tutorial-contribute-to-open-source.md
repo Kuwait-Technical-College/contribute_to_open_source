@@ -16,6 +16,8 @@
 | **End Goal** | Each student adds a new cybersecurity zen koan to an open-source app and submits a Pull Request on GitHub |
 | **Repository** | [Kuwait-Technical-College/cybersecurity_zen_koans_app](https://github.com/Kuwait-Technical-College/cybersecurity_zen_koans_app) |
 
+> 🎥 **Video walkthrough**: Prefer to follow along with a video? Watch the full tutorial on YouTube: [https://www.youtube.com/watch?v=a8poI7DmBYs](https://www.youtube.com/watch?v=a8poI7DmBYs)
+
 ## What Students Will Learn
 
 - How to use VS Code (editor, terminal, extensions)

@@ -14,6 +14,7 @@ A hands-on tutorial that teaches students how to make their first open-source co
 |---|---|
 | [tutorial-contribute-to-open-source.md](tutorial-contribute-to-open-source.md) | Full written tutorial with step-by-step instructions and instructor notes |
 | [slides.md](slides.md) | Presentation slides powered by [Slidev](https://sli.dev) for classroom use |
+| [🎥 Video Walkthrough](https://www.youtube.com/watch?v=a8poI7DmBYs) | Full tutorial in video format on YouTube |
 
 ## Tutorial Overview
 
